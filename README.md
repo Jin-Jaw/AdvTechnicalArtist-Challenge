@@ -8,7 +8,7 @@
 
 ## The Problem
 
-We need a portal that can be used by players to travel between different locations/levels inside our app. 
+We need a portal that can be used by players to travel between different locations/levels inside our app, players will use these portals to travel from our shared social lobby to individual stadiums/locations. 
 
 We have provided a sci-fi themed "gate" mesh where we need to add a portal effect that includes the following: 
 
