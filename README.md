@@ -1,4 +1,4 @@
-# STechnicalArtist-Challenge
+# Advanced Technical Artist Challenge
 
 ## Getting Started
 
@@ -10,7 +10,7 @@
 
 We need a portal that can be used by players to travel between different locations/levels inside our app. 
 
-We have provided a scifi themed "gate" mesh where we need to add a portal effect that includes the following: 
+We have provided a sci-fi themed "gate" mesh where we need to add a portal effect that includes the following: 
 
 - Clear visual indication that it is a portal
 - Fits the scifi aesthetic
