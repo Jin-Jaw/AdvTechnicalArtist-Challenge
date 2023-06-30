@@ -19,6 +19,9 @@ We have provided a sci-fi themed "gate" mesh where we need to add a portal effec
 
 This portal can be achieved with whatever technologies you deem suitable such as niagara, shaders and other visual effects or multiple in combination
 
+Reference Image for Location
+![Virtex Plaza - color V4 - 4k](https://github.com/VirtexXR/AdvTechnicalArtist-Challenge/assets/33485538/83dab420-a1e7-4cbe-9d8e-6b22c1042501)
+
 ## The Goal
 
 The goal of this test is to show your ability to take a briefing and implement a full feature from scratch
